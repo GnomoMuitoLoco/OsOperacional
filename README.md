@@ -130,10 +130,10 @@ Contribuições são bem-vindas. Como este repositório foi criado para uso pess
 
 Licença
 
-O projeto foi criado para uso pessoal, mas sinta-se livre para usar o código como base em seus próprios projetos. Se desejar publicar ou redistribuir, recomendo adicionar uma licença explícita (por exemplo MIT) criando um arquivo `LICENSE` na raiz.
+O projeto foi criado para uso pessoal, mas sinta-se livre para usar o código como base em seus próprios projetos.
 
 Contato
 
-Se quiser falar sobre este projeto, sugestões ou dúvidas, adicione uma issue no repositório ou entre em contato diretamente (adicione seu e-mail ou rede social aqui, se quiser compartilhar).
+Se quiser falar sobre este projeto, sugestões ou dúvidas, adicione uma issue no repositório ou entre em contato diretamente (discord: GnomoMuitoLoco).
 
-Obrigado por usar/estudar "Os Operacional"! Se quiser, posso também gerar um arquivo `LICENSE` (ex: MIT) e exemplos de uso da API interna do app (documentação das funções do `database_helper`).
+Obrigado por usar/estudar "Os Operacional"!
